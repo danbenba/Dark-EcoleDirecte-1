@@ -1,16 +1,16 @@
 # Dark EcoleDirecte
-A dark theme for EcoleDirecte (v3.6.1)
+Un thème sombre pour EcoleDirecte (v3.6.1)
 
 ## Installation
-Install [Stylus](https://add0n.com/stylus.html) if you are using Firefox, Chrome or Opera.
-If you are on Safari, install [Cascadea](https://cascadea.app/).<br/>
+Installez [Stylus](https://add0n.com/stylus.html) si vous utilisez Firefox, Chrome ou Opera.
+Si vous êtes sur Safari, installez [Cascadea](https://cascadea.app/).
 
-Then you can acquire this theme using one of these methods:<br/>
-📦 [Install the usercss](https://raw.githubusercontent.com/CustomStyles/Dark-EcoleDirecte/master/style.user.css) which supports automatic updates and personalization in real time.<br/>
-📦 [Install from UserStyles](https://userstyles.org/styles/178762) which requires manual updates and customization must be done during installation.<br/>
-📦 [Install manually from GitHub](style.css) (Mozilla format) which requires manual updates and no customization can be done.<br/>
+Ensuite, vous pouvez acquérir ce thème en utilisant l'une de ces méthodes :
+📦 [Installez le usercss](https://raw.githubusercontent.com/CustomStyles/Dark-EcoleDirecte/master/style.user.css) qui supporte les mises à jour automatiques et la personnalisation en temps réel.
+📦 [Installez depuis UserStyles](https://userstyles.org/styles/178762) qui nécessite des mises à jour manuelles et la personnalisation doit être faite lors de l'installation.
+📦 [Installez manuellement depuis GitHub](style.css) (format Mozilla) qui nécessite des mises à jour manuelles et aucune personnalisation ne peut être faite.
 
-## Screenshot
-|Login                                     |Home                                      |Homework                                  |
+## Capture d'écran
+|Connexion                                 |Accueil                                   |Devoirs                                   |
 |:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
-|![Login](images/login.png)                |![Home](images/home.png)                  |![Homework](images/homework.png)          |
+|![Connexion](images/login.png)            |![Accueil](images/home.png)               |![Devoirs](images/homework.png)           |
